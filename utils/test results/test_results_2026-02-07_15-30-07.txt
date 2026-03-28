@@ -1,0 +1,24 @@
+﻿
+Config: general (ALT).bat (Type: standard)
+  UNKNOWN : HTTP:ERROR | Ping: Timeout
+  DiscordGateway : HTTP:ERROR TLS1.2:OK    TLS1.3:OK    | Ping: 4 ms
+  DiscordCDN : HTTP:ERROR TLS1.2:OK    TLS1.3:OK    | Ping: 5 ms
+  DiscordUpdates : HTTP:ERROR TLS1.2:OK    TLS1.3:OK    | Ping: 4 ms
+  YouTubeWeb : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 17 ms
+  YouTubeShort : HTTP:ERROR TLS1.2:OK    TLS1.3:OK    | Ping: 16 ms
+  YouTubeImage : HTTP:ERROR TLS1.2:OK    TLS1.3:OK    | Ping: 19 ms
+  YouTubeVideoRedirect : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 18 ms
+  GoogleMain : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 19 ms
+  GoogleGstatic : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 17 ms
+  CloudflareWeb : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 5 ms
+  CloudflareCDN : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 4 ms
+  CloudflareDNS1111 :  | Ping: 5 ms
+  CloudflareDNS1001 :  | Ping: 4 ms
+  GoogleDNS8888 :  | Ping: 19 ms
+  GoogleDNS8844 :  | Ping: 22 ms
+  Quad9DNS9999 :  | Ping: 46 ms
+  Roblox : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: Timeout
+
+=== ANALYTICS ===
+general (ALT).bat : HTTP OK: 25, ERR: 12, UNSUP: 0, Ping OK: 16, Fail: 2
+Best strategy: general (ALT).bat

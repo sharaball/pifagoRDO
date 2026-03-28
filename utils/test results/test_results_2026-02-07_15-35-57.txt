@@ -1,0 +1,33 @@
+﻿
+Config: general (ALT).bat (Type: standard)
+  Discord Main : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 4 ms
+  Discord Gateway : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 4 ms
+  Discord CDN : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 4 ms
+  Discord Updates : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 4 ms
+  UNKNOWN : HTTP:ERROR | Ping: Timeout
+  YouTube Short : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 19 ms
+  YouTube Image : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 19 ms
+  YouTube Video Redirect : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 17 ms
+  Google Main : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 16 ms
+  Google Gstatic : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 16 ms
+  Cloudflare Web : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 5 ms
+  Cloudflare CDN : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 4 ms
+  Roblox : HTTP:OK    TLS1.2:OK    TLS1.3:OK    | Ping: 45 ms
+  Roblox rblx : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: Timeout
+  UNKNOWN : HTTP:ERROR | Ping: Timeout
+  Roblox CDN : HTTP:SSL   TLS1.2:SSL   TLS1.3:SSL   | Ping: Timeout
+  Roblox API : HTTP:SSL   TLS1.2:SSL   TLS1.3:SSL   | Ping: Timeout
+  Roblox Labs : HTTP:SSL   TLS1.2:SSL   TLS1.3:SSL   | Ping: Timeout
+  UNKNOWN : HTTP:ERROR | Ping: Timeout
+  UNKNOWN : HTTP:ERROR | Ping: Timeout
+  Roblox Fastly : HTTP:ERROR TLS1.2:ERROR TLS1.3:ERROR | Ping: 41 ms
+  Roblox corp : HTTP:SSL   TLS1.2:SSL   TLS1.3:SSL   | Ping: Timeout
+  Cloudflare DNS 1.1.1.1 :  | Ping: 5 ms
+  Cloudflare DNS 1.0.0.1 :  | Ping: 4 ms
+  Google DNS 8.8.8.8 :  | Ping: 20 ms
+  Google DNS 8.8.4.4 :  | Ping: 23 ms
+  Quad9 DNS 9.9.9.9 :  | Ping: 44 ms
+
+=== ANALYTICS ===
+general (ALT).bat : HTTP OK: 33, ERR: 25, UNSUP: 0, Ping OK: 18, Fail: 9
+Best strategy: general (ALT).bat
