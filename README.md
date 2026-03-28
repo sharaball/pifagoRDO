@@ -10,7 +10,7 @@ YouTube.
 
 Discord.
 
-Roblox.
+Roblox (для работы нужно включить Гейм фильтр через service.bat).
 
 SoundCloud.
 
