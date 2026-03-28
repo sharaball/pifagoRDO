@@ -30,4 +30,6 @@ Instagram*.
 
 Newgrounds.
 
+Telegram (Desktop и Web).
+
 И другие.
