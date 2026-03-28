@@ -1,5 +1,5 @@
 # pifagoRDO
-zapret-discord-youtube от Flowseal патчнутый с большим количеством доменов для разблокировки и прочими вещами типа перевода service.bat на русский (и он не ломает Rockstar как zapret-discord-youtube от Flowseal с включенным Гейм фильтром)
+zapret-discord-youtube от Flowseal патчнутый с большим количеством доменов для разблокировки и прочими вещами типа перевода service.bat на русский (и он **не** ломает **Rockstar** как zapret-discord-youtube от Flowseal с включенным Гейм фильтром)
 
 README для zapret-discord-youtube [тут](https://github.com/Flowseal/zapret-discord-youtube/blob/main/README.md).
 
