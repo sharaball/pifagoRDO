@@ -4,11 +4,19 @@ README для zapret-discord-youtube [тут](https://github.com/Flowseal/zapret
 
 #что он разблокирует или ускоряет (или хотя бы пытается)
 YouTube.
+
 Discord.
+
 Roblox.
+
 SoundCloud.
+
 X (Twitter).
+
 Facebook*.
+
 Instagram*.
+
 Newgrounds.
+
 И другие.
