@@ -32,4 +32,6 @@ Newgrounds.
 
 Telegram (Desktop и Web).
 
+Geometry Dash.
+
 И другие.
