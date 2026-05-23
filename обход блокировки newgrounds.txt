@@ -1,0 +1,48 @@
+(БЛОКИРОВКУ МУЗЫКИ МОЖНО ТАКЖЕ ОБОЙТИ МОДОМ NEWGROUNDS PROXY REIMAGINED В GEODE)
+
+чтобы сделать обход ньюграундса (музыки гд) нужно зайти в service.bat из папки с pifagoRDO и выбираем "8. Обновить файл Hosts"
+откроются блокнотики и папки но их игнорируем и заходим в ту папку которую он открыл и нужно открыть hosts
+
+чтобы открыть hosts:
+1) откройте блокнот с правами администратора.
+2) скопируйте путь к папке в котором лежит ваш файл hosts
+3) в блокноте нажмите на кнопку "Файл" а затем "Открыть..."
+4) вставьте туда путь к папке
+5) чтобы увидеть файл hosts, выберите вместо "Текстовые документы (.txt)" вот это "Все файлы (*.*)"
+6) откройте файл hosts.
+
+в файле hosts делаем новую строчку и на ней просто вставляем текст который будет ниже
+51.79.77.157 newgrounds.com
+51.79.82.168 newgrounds.com
+51.79.77.158 newgrounds.com
+15.235.14.84 newgrounds.com
+15.235.14.84 ungrounded.net
+144.217.190.192 ns1.ungrounded.net
+198.50.172.48 ns2.ungrounded.net
+104.26.1.117 mcreator.net
+172.67.69.216 mcreator.net
+104.26.0.117 mcreator.net
+15.235.14.84 gatortots.newgrounds.com
+51.79.77.158 gatortots.newgrounds.com
+51.79.77.157 gatortots.newgrounds.com
+51.79.82.168 gatortots.newgrounds.com
+51.79.77.158 system17.ungrounded.net
+51.79.77.157 system16.ungrounded.net
+15.235.14.84 ns5009982.ip-15-235-14.net
+51.79.82.168 system15.ungrounded.net
+64.233.161.26 aspmx.l.google.com
+172.253.144.26 aspmx2.googlemail.com
+108.177.125.27 aspmx3.googlemail.com
+51.79.77.158 proxy.ungrounded.net
+51.79.82.168 proxy.ungrounded.net
+15.235.14.84 proxy.ungrounded.net
+51.79.77.157 proxy.ungrounded.net
+51.79.77.158 ngfiles.com
+51.79.82.168 ngfiles.com
+51.79.77.157 ngfiles.com
+15.235.14.84 ngfiles.com
+76.223.54.146 ngcdn.com
+13.248.169.48 ngcdn.com
+
+просто ctrl+c и ctrl+v на новую строчку в hosts и нажимаем ctrl+s или просто сохраняем файл
+дальше закрываем hosts и открываем свою стратегию и игру/сайт
